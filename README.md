@@ -3,8 +3,8 @@
 
 ⚖️ I work at [MeinGrundeinkommen](https://www.mein-grundeinkommen.de)
 
-👫 I started http://tinyteam.de with my girlfriend
+👫 I started [tinyteam](https://tinyteam.de) with my girlfriend
 
-🗳 I’m currently build http://konsens.it
+🗳 I’m currently building [konsens.it](https://konsens.it)
 
 🐦 **[Follow me on twitter](https://twitter.com/max_hoffmann)**
