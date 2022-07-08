@@ -1,5 +1,5 @@
 <h1>Hi 👋 I’m Max.</h1>
-<h3>I’m a software designer/developer building tools that help strengthening democracy.</h3>
+<h3>Software designer/developer who builds tools to strengthen democracies.</h3>
 
 ⚖️ I work at [MeinGrundeinkommen](https://www.mein-grundeinkommen.de)
 
