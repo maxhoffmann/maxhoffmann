@@ -3,7 +3,7 @@
 
 ⚖️ I work at [MeinGrundeinkommen](https://www.mein-grundeinkommen.de)
 
-👫 I started [tinyteam](https://tinyteam.de) with my girlfriend
+👫 I started [tinyteam](https://tinyteam.de) with my partner
 
 🗳 I’m currently building [konsens.it](https://konsens.it)
 
