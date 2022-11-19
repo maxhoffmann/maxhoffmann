@@ -7,4 +7,4 @@
 
 🗳 builds [konsens.it](https://konsens.it)
 
-🐦 **[Follow me on twitter](https://twitter.com/max_hoffmann)**
+🐘 **[Follow me on mastodon](https://berlin.social/@max)**
