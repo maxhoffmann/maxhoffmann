@@ -5,4 +5,4 @@
 
 🗳 builds [konsens.it](https://konsens.it)
 
-🐘 **[Follow me on mastodon](https://berlin.social/@max)**
+🐘 **[Shares some thoughts on mastodon](https://berlin.social/@max)**
