@@ -3,8 +3,6 @@
 
 ⚖️ works at [MeinGrundeinkommen](https://www.mein-grundeinkommen.de)
 
-👫 started [tinyteam](https://tinyteam.de) with my partner
-
 🗳 builds [konsens.it](https://konsens.it)
 
 🐘 **[Follow me on mastodon](https://berlin.social/@max)**
