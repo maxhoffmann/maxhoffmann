@@ -5,4 +5,6 @@
 
 🗳 builds [konsens.it](https://konsens.it)
 
+📚 writes at [max.hn](https://max.hn)
+
 🐘 **[Shares some thoughts on mastodon](https://berlin.social/@max)**
