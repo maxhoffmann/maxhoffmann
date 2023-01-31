@@ -7,4 +7,4 @@
 
 📚 writes at [max.hn](https://max.hn)
 
-🐘 **[Shares some thoughts on mastodon](https://berlin.social/@max)**
+🐘 **[Shares thoughts on mastodon](https://berlin.social/@max)**
